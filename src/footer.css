@@ -1,0 +1,15 @@
+.footer-c {
+  background-color:#202327;;
+  color: #94a3b8;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  border-top: 1px solid #1e293b;
+  font-size: 14px;
+}
+.footer-c h3{
+    text-align: center;
+  display: flex;
+
+}
